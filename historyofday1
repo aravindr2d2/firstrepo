@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@aravindr2d2 
-nileshvaghela2
-/
-hello-world
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-hello-world/file-history.txt
-@nileshvaghela2
-nileshvaghela2 adding git history file
-Latest commit 117208d 29 seconds ago
- History
- 1 contributor
-88 lines (88 sloc)  2.02 KB
-
     1  sudo apt install git
     2  git --version
     3  git config --global user.name "Nilesh Vaghela"
