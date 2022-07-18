@@ -1,1 +1,2 @@
-hi hello 
+echo "hi hello"
+echo "git in jenkins"
